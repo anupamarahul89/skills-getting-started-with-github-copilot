@@ -86,9 +86,11 @@ section h3 {
   font-size: 14px;
 }
 
-.participants-section ul {
-  margin-left: 20px;
-  list-style-type: disc;
+
+.participants-section ul.participants-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-type: none;
 }
 
 .participants-section li {
